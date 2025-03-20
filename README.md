@@ -30,7 +30,7 @@ I am an experienced Software Engineer with a strong background in web developmen
 - **Highlights:** Created and customized the platform, integrated with in-house systems, provided insights based on surveys.
 
 ## 📫 How to reach me
-- **Email:** jawadzafar39@example.com
+- **Email:** jawad.zafar39@gmail.com
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/jawad-zafar-25446572/)
 - **Twitter:** [@jawadzafar39](https://twitter.com/jawadzafar39)
 
